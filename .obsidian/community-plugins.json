@@ -3,5 +3,6 @@
   "templater-obsidian",
   "dbfolder",
   "dataview",
-  "obsidian-leaflet-plugin"
+  "obsidian-leaflet-plugin",
+  "obsidian-dice-roller"
 ]

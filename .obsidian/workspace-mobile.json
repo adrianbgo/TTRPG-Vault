@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__templates__/1. DM Templates/1. Story World Templates/Session Notes/template-letter.md",
-                "mode": "preview",
+                "file": "__templates__/2. d23 Templates/Daily/d23-day.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "__templates__/1. DM Templates/1. Story World Templates/Session Notes/template-letter.md",
+            "file": "__templates__/2. d23 Templates/Daily/d23-day.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "__templates__/1. DM Templates/1. Story World Templates/Session Notes/template-letter.md",
+            "file": "__templates__/2. d23 Templates/Daily/d23-day.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,8 +114,16 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "__templates__/1. DM Templates/1. Story World Templates/Session Notes/template-letter.md"
+            "file": "__templates__/2. d23 Templates/Daily/d23-day.md"
           }
+        }
+      },
+      {
+        "id": "815997981bc3d8dd",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {}
         }
       }
     ],
@@ -134,29 +142,34 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "73c239e02e9cad2d",
+  "active": "a23b00e0d2b167dc",
   "lastOpenFiles": [
+    "D23/Untitled.md",
+    "__templates__/2. d23 Templates/Daily/d23-day.md",
+    "__templates__/dungeon23-day.md",
+    "D23",
+    "Dread/00 - Rules/Rules - Home.md",
+    "__templates__/2. d23 Templates/Daily",
+    "__templates__/2. d23 Templates",
+    "__templates__/1. DM Templates/1. Story World Templates/People/database-npc.md",
+    "Dread/10 - Adventures",
+    "Dread/00 - Rules",
+    "Dungeons & Dragons/Sample NPC.md",
+    "__templates__/1. DM Templates/1. Story World Templates/Session Notes/template-letter.md",
     "__templates__/1. DM Templates/1. Story World Templates/Locations/template-settlement.md",
     "__templates__/1. DM Templates/1. Story World Templates/Party/template-party-dashboard.md",
     "__templates__/1. DM Templates/1. Story World Templates/Session Notes/template-quest.md",
     "__templates__/1. DM Templates/1. Story World Templates/Session Notes/template-service-request.md",
-    "__templates__/1. DM Templates/1. Story World Templates/Session Notes/template-letter.md",
     "__templates__/1. DM Templates/1. Story World Templates/Locations/database-settlement.md",
     "__templates__/1. DM Templates/1. Story World Templates/Session Notes",
     "__templates__/1. DM Templates/1. Story World Templates/Locations",
-    "__templates__/1. DM Templates/1. Story World Templates/People/database-npc.md",
     "__templates__/1. DM Templates/1. Story World Templates/Party",
     "Dungeons & Dragons",
     "Call of Cthulhu",
-    "Dread",
     "__templates__/1. DM Templates/1. Story World Templates/People/template-npc.md",
     "/__templates__/1. DM Templates/1. Story World Templates/People/database-npc.md",
     "/__templates__/1. DM Templates/1. Story World Templates/People/Template - NPC.md",
     "PlaceholderImage.png.md",
-    "__templates__/1. DM Templates/1. Story World Templates/People",
-    "__templates__/1. DM Templates/1. Story World Templates",
-    "__templates__/1. DM Templates",
-    "__templates__",
     "test123.md",
     "Templates/1. DM Templates/1. Story World Templates/People/Example.md",
     "/Templates/1. DM Templates/1. Story World Templates/People/Example.md",
