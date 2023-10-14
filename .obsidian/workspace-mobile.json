@@ -11,9 +11,11 @@
             "id": "a23b00e0d2b167dc",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "__templates__/1. DM Templates/1. Story World Templates/Locations/database-settlement.md"
+                "file": "__templates__/1. DM Templates/1. Story World Templates/Session Notes/template-letter.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "__templates__/1. DM Templates/1. Story World Templates/Locations/database-settlement.md",
+            "file": "__templates__/1. DM Templates/1. Story World Templates/Session Notes/template-letter.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "__templates__/1. DM Templates/1. Story World Templates/Locations/database-settlement.md",
+            "file": "__templates__/1. DM Templates/1. Story World Templates/Session Notes/template-letter.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "__templates__/1. DM Templates/1. Story World Templates/Locations/database-settlement.md"
+            "file": "__templates__/1. DM Templates/1. Story World Templates/Session Notes/template-letter.md"
           }
         }
       }
@@ -132,18 +134,22 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "a23b00e0d2b167dc",
+  "active": "73c239e02e9cad2d",
   "lastOpenFiles": [
-    "__templates__/1. DM Templates/1. Story World Templates/Locations/Template - Settlement.md",
+    "__templates__/1. DM Templates/1. Story World Templates/Locations/template-settlement.md",
+    "__templates__/1. DM Templates/1. Story World Templates/Party/template-party-dashboard.md",
+    "__templates__/1. DM Templates/1. Story World Templates/Session Notes/template-quest.md",
+    "__templates__/1. DM Templates/1. Story World Templates/Session Notes/template-service-request.md",
+    "__templates__/1. DM Templates/1. Story World Templates/Session Notes/template-letter.md",
     "__templates__/1. DM Templates/1. Story World Templates/Locations/database-settlement.md",
-    "__templates__/1. DM Templates/1. Story World Templates/Party/Template - Party Dashboard.md",
+    "__templates__/1. DM Templates/1. Story World Templates/Session Notes",
     "__templates__/1. DM Templates/1. Story World Templates/Locations",
     "__templates__/1. DM Templates/1. Story World Templates/People/database-npc.md",
     "__templates__/1. DM Templates/1. Story World Templates/Party",
     "Dungeons & Dragons",
     "Call of Cthulhu",
     "Dread",
-    "__templates__/1. DM Templates/1. Story World Templates/People/Template - NPC.md",
+    "__templates__/1. DM Templates/1. Story World Templates/People/template-npc.md",
     "/__templates__/1. DM Templates/1. Story World Templates/People/database-npc.md",
     "/__templates__/1. DM Templates/1. Story World Templates/People/Template - NPC.md",
     "PlaceholderImage.png.md",
@@ -151,7 +157,6 @@
     "__templates__/1. DM Templates/1. Story World Templates",
     "__templates__/1. DM Templates",
     "__templates__",
-    "/__templates__/1. DM Templates/1. Story World Templates/People",
     "test123.md",
     "Templates/1. DM Templates/1. Story World Templates/People/Example.md",
     "/Templates/1. DM Templates/1. Story World Templates/People/Example.md",
