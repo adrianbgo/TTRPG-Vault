@@ -2,5 +2,6 @@
   "obsidian-git",
   "templater-obsidian",
   "dbfolder",
-  "dataview"
+  "dataview",
+  "obsidian-leaflet-plugin"
 ]

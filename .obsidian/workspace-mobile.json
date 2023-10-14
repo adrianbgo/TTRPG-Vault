@@ -11,11 +11,9 @@
             "id": "a23b00e0d2b167dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "__templates__/1. DM Templates/1. Story World Templates/People/Template - NPC.md",
-                "mode": "source",
-                "source": false
+                "file": "__templates__/1. DM Templates/1. Story World Templates/Locations/database-settlement.md"
               }
             }
           }
@@ -85,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "__templates__/1. DM Templates/1. Story World Templates/People/Template - NPC.md",
+            "file": "__templates__/1. DM Templates/1. Story World Templates/Locations/database-settlement.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "__templates__/1. DM Templates/1. Story World Templates/People/Template - NPC.md",
+            "file": "__templates__/1. DM Templates/1. Story World Templates/Locations/database-settlement.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "__templates__/1. DM Templates/1. Story World Templates/People/Template - NPC.md"
+            "file": "__templates__/1. DM Templates/1. Story World Templates/Locations/database-settlement.md"
           }
         }
       }
@@ -130,24 +128,30 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "dbfolder:Create a new database table": false
+      "dbfolder:Create a new database table": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "a23b00e0d2b167dc",
   "lastOpenFiles": [
-    "PlaceholderImage.png.md",
+    "__templates__/1. DM Templates/1. Story World Templates/Locations/Template - Settlement.md",
+    "__templates__/1. DM Templates/1. Story World Templates/Locations/database-settlement.md",
+    "__templates__/1. DM Templates/1. Story World Templates/Party/Template - Party Dashboard.md",
+    "__templates__/1. DM Templates/1. Story World Templates/Locations",
+    "__templates__/1. DM Templates/1. Story World Templates/People/database-npc.md",
+    "__templates__/1. DM Templates/1. Story World Templates/Party",
+    "Dungeons & Dragons",
+    "Call of Cthulhu",
+    "Dread",
     "__templates__/1. DM Templates/1. Story World Templates/People/Template - NPC.md",
+    "/__templates__/1. DM Templates/1. Story World Templates/People/database-npc.md",
+    "/__templates__/1. DM Templates/1. Story World Templates/People/Template - NPC.md",
+    "PlaceholderImage.png.md",
     "__templates__/1. DM Templates/1. Story World Templates/People",
     "__templates__/1. DM Templates/1. Story World Templates",
     "__templates__/1. DM Templates",
     "__templates__",
-    "/__templates__/1. DM Templates/1. Story World Templates/People/Template - NPC.md",
     "/__templates__/1. DM Templates/1. Story World Templates/People",
-    "/__templates__/1. DM Templates/1. Story World Templates",
-    "/__templates__/1. DM Templates",
-    "/__templates__",
-    "Templates/1 1. dm templates/1. Story World Templates",
-    "Templates/1 1. dm templates",
     "test123.md",
     "Templates/1. DM Templates/1. Story World Templates/People/Example.md",
     "/Templates/1. DM Templates/1. Story World Templates/People/Example.md",
